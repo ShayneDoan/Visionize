@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> A SaaS AI image processing platform
+> A SaaS AI image processing utilizing using Typescript and CSS. Powered by Clerk for security, Cloudinary API for image processing, and Stripe for transactions
 
 ### 🏠 [Homepage](https://github.com/ShayneDoan/Visionize)
 
