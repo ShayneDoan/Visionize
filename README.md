@@ -8,7 +8,7 @@
 
 > A SaaS AI image processing platform
 
-### 🏠 [Homepage](github.com/ShayneDoan/Visionize)
+### 🏠 [Homepage](https://github.com/ShayneDoan/Visionize)
 
 ### ✨ [Demo](visionize-blue.vercel.app)
 
