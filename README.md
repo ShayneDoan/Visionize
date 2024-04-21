@@ -10,7 +10,7 @@
 
 ### 🏠 [Homepage](https://github.com/ShayneDoan/Visionize)
 
-### ✨ [Demo](visionize-blue.vercel.app)
+### ✨ [Demo](https://visionize-blue.vercel.app/)
 
 ## Install
 
